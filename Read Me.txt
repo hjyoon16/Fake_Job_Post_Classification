@@ -1,0 +1,8 @@
+. The purpose of this project is to construct an ideal model that has a predictability to
+determine fraudulent job posts and thus to minimize the loss from job post frauds. A data set
+from the public was obtained, analyzed, and processed to make it ideal for data mining. After
+data processing, the set was split into training and test sets, and the training set was used to build
+the model by applying it through five different algorithms: Naïve Bayes, decision tree, k-nearest
+neighbors, random forest, and logistic regression. The five constructed models were then
+compared with the test data set results, and each of them was validated by comparing evaluation
+measurements.
